@@ -1,2 +1,2 @@
 # ml-beginning-tutorials
-Some useful Machine Learning turorials.
+Some useful Machine Learning tutorials.
